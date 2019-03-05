@@ -10,6 +10,9 @@ Editando en el branch update-readme localmente
 
 Agregado antes de rebase
 
-Este causara conflictos con lo que sea
-que este en el lado remoto
+
+
+
+Agregado en develop default
 Esto se edito localmente
+
