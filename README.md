@@ -9,3 +9,7 @@ Editando en el branch update-readme
 Editando en el branch update-readme localmente
 
 Agregado antes de rebase
+
+Este causara conflictos con lo que sea
+que este en el lado remoto
+Esto se edito localmente
