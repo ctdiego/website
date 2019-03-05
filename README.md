@@ -16,3 +16,5 @@ Agregado antes de rebase
 Agregado en develop default
 Esto se edito localmente
 
+
+CAmbios para floating tag
