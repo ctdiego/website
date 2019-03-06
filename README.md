@@ -18,3 +18,7 @@ Esto se edito localmente
 
 
 CAmbios para floating tag
+
+## Seccion Getting started
+
+la seccion
